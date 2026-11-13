@@ -5,3 +5,7 @@ _build/
 # make sure Labs aren't included
 Lab*.ipynb
 lab*.ipynb
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+GEDEvent_v26_1.csv
