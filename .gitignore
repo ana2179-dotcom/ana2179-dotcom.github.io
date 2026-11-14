@@ -1,2 +1,19 @@
 # MyST build outputs
 _build
+lec_16.ipynb_checkpoints/
+_build/
+
+# make sure Labs aren't included
+Lab*.ipynb
+lab*.ipynb
+.venv/
+.ipynb_checkpoints/
+
+# Python virtual environment
+.venv/
+
+# Large dataset
+GEDEvent_v26_1.csv
+
+# Temporary files
+.DS_Store
